@@ -8,4 +8,4 @@
 
 Github个人repo展示，学习参考：
 - GitHub统计：https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
-- 项目标签：https://shields.io/
+- README标签：https://shields.io/
