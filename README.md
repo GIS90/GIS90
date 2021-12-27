@@ -1,6 +1,6 @@
 ### Enjoy the good life everyday！
 
-***PyGo²***<font color="red">PyGo²</font>是一名Python开发程序员  
+***PyGo²***是一名Python开发程序员  
 
 ![](https://img.shields.io/badge/Development%20Language-Python-FF0000)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GIS90&theme=highcontrast&show_icons=true&hide=contribs,prs&count_private=true)
