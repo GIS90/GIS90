@@ -2,7 +2,8 @@
 
 ***PyGo²***是一名Python开发程序员  
 
-![](https://img.shields.io/badge/Development%20Language-Python-FF0000)  
+![](https://img.shields.io/badge/后端开发-Python-FF0000)  
+![](https://img.shields.io/badge/前端开发-VUE-FFFF00)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GIS90&theme=highcontrast&show_icons=true&hide=contribs,prs&count_private=true)
 
 
